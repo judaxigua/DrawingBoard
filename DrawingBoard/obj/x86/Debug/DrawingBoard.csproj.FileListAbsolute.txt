@@ -1,0 +1,61 @@
+F:\课程\大三下\人机交互课程设计\我的程序\绘图软件\当前阶段\DrawingBoard\DrawingBoard\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\课程\大三下\人机交互课程设计\我的程序\绘图软件\当前阶段\DrawingBoard\DrawingBoard\obj\x86\Debug\DrawingBoard.Properties.Resources.resources
+F:\课程\大三下\人机交互课程设计\我的程序\绘图软件\当前阶段\DrawingBoard\DrawingBoard\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\课程\大三下\人机交互课程设计\我的程序\绘图软件\当前阶段\DrawingBoard\DrawingBoard\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\课程\大三下\人机交互课程设计\我的程序\绘图软件\当前阶段\DrawingBoard\DrawingBoard\bin\Debug\DrawingBoard.exe
+F:\课程\大三下\人机交互课程设计\我的程序\绘图软件\当前阶段\DrawingBoard\DrawingBoard\bin\Debug\DrawingBoard.pdb
+F:\课程\大三下\人机交互课程设计\我的程序\绘图软件\当前阶段\DrawingBoard\DrawingBoard\obj\x86\Debug\DrawingBoard.exe
+F:\课程\大三下\人机交互课程设计\我的程序\绘图软件\当前阶段\DrawingBoard\DrawingBoard\obj\x86\Debug\DrawingBoard.pdb
+F:\课程\大三下\人机交互课程设计\我的程序\绘图软件\当前阶段\DrawingBoard\DrawingBoard\obj\x86\Debug\DrawingBoard.MainForm.resources
+C:\Documents and Settings\Administrator\桌面\绘图软件\当前阶段\DrawingBoard\DrawingBoard\obj\x86\Debug\DrawingBoard.exe
+C:\Documents and Settings\Administrator\桌面\绘图软件\当前阶段\DrawingBoard\DrawingBoard\obj\x86\Debug\DrawingBoard.pdb
+C:\Documents and Settings\Administrator\桌面\绘图软件\当前阶段\DrawingBoard\DrawingBoard\bin\Debug\DrawingBoard.exe
+C:\Documents and Settings\Administrator\桌面\绘图软件\当前阶段\DrawingBoard\DrawingBoard\bin\Debug\DrawingBoard.pdb
+C:\Documents and Settings\Administrator\桌面\绘图软件\当前阶段\DrawingBoard\DrawingBoard\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\绘图软件\当前阶段\DrawingBoard\DrawingBoard\obj\x86\Debug\DrawingBoard.MainForm.resources
+C:\Documents and Settings\Administrator\桌面\绘图软件\当前阶段\DrawingBoard\DrawingBoard\obj\x86\Debug\DrawingBoard.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\绘图软件\当前阶段\DrawingBoard\DrawingBoard\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\绘图软件\当前阶段\DrawingBoard\DrawingBoard\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\绘图软件\当前阶段\DrawingBoard\DrawingBoard\obj\x86\Debug\DrawingBoard.ResourceImp.resources
+F:\课程\大三下\人机交互课程设计\我的程序\绘图软件\当前阶段\DrawingBoard\DrawingBoard\obj\x86\Debug\DrawingBoard.ResourceImp.resources
+C:\Documents and Settings\Administrator\桌面\绘图软件\绘图软件\当前阶段\DrawingBoard\DrawingBoard\obj\x86\Debug\DrawingBoard.exe
+C:\Documents and Settings\Administrator\桌面\绘图软件\绘图软件\当前阶段\DrawingBoard\DrawingBoard\obj\x86\Debug\DrawingBoard.pdb
+C:\Documents and Settings\Administrator\桌面\绘图软件\绘图软件\当前阶段\DrawingBoard\DrawingBoard\bin\Debug\DrawingBoard.exe
+C:\Documents and Settings\Administrator\桌面\绘图软件\绘图软件\当前阶段\DrawingBoard\DrawingBoard\bin\Debug\DrawingBoard.pdb
+C:\Documents and Settings\Administrator\桌面\绘图软件\绘图软件\当前阶段\DrawingBoard\DrawingBoard\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\绘图软件\绘图软件\当前阶段\DrawingBoard\DrawingBoard\obj\x86\Debug\DrawingBoard.MainForm.resources
+C:\Documents and Settings\Administrator\桌面\绘图软件\绘图软件\当前阶段\DrawingBoard\DrawingBoard\obj\x86\Debug\DrawingBoard.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\绘图软件\绘图软件\当前阶段\DrawingBoard\DrawingBoard\obj\x86\Debug\DrawingBoard.ResourceImp.resources
+C:\Documents and Settings\Administrator\桌面\绘图软件\绘图软件\当前阶段\DrawingBoard\DrawingBoard\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\绘图软件\绘图软件\当前阶段\DrawingBoard\DrawingBoard\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\DrawingBoard\DrawingBoard\obj\x86\Debug\DrawingBoard.exe
+C:\Documents and Settings\Administrator\桌面\DrawingBoard\DrawingBoard\obj\x86\Debug\DrawingBoard.pdb
+C:\Documents and Settings\Administrator\桌面\DrawingBoard\DrawingBoard\bin\Debug\DrawingBoard.exe
+C:\Documents and Settings\Administrator\桌面\DrawingBoard\DrawingBoard\bin\Debug\DrawingBoard.pdb
+C:\Documents and Settings\Administrator\桌面\DrawingBoard\DrawingBoard\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\DrawingBoard\DrawingBoard\obj\x86\Debug\DrawingBoard.MainForm.resources
+C:\Documents and Settings\Administrator\桌面\DrawingBoard\DrawingBoard\obj\x86\Debug\DrawingBoard.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\DrawingBoard\DrawingBoard\obj\x86\Debug\DrawingBoard.ResourceImp.resources
+C:\Documents and Settings\Administrator\桌面\DrawingBoard\DrawingBoard\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\DrawingBoard\DrawingBoard\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\课程\人机交互课设\第六周\上课后\DrawingBoard\DrawingBoard\obj\x86\Debug\DrawingBoard.exe
+F:\课程\人机交互课设\第六周\上课后\DrawingBoard\DrawingBoard\obj\x86\Debug\DrawingBoard.pdb
+G:\程序\绘图软件\人机交互课设\绘图软件\当前阶段\DrawingBoard\DrawingBoard\obj\x86\Debug\DrawingBoard.exe
+G:\程序\绘图软件\人机交互课设\绘图软件\当前阶段\DrawingBoard\DrawingBoard\obj\x86\Debug\DrawingBoard.pdb
+G:\程序\绘图软件\人机交互课设\绘图软件\当前阶段\DrawingBoard\DrawingBoard\bin\Debug\DrawingBoard.exe
+G:\程序\绘图软件\人机交互课设\绘图软件\当前阶段\DrawingBoard\DrawingBoard\bin\Debug\DrawingBoard.pdb
+G:\程序\绘图软件\人机交互课设\绘图软件\当前阶段\DrawingBoard\DrawingBoard\obj\x86\Debug\DrawingBoard.csprojResolveAssemblyReference.cache
+G:\程序\绘图软件\人机交互课设\绘图软件\当前阶段\DrawingBoard\DrawingBoard\obj\x86\Debug\DrawingBoard.MainForm.resources
+G:\程序\绘图软件\人机交互课设\绘图软件\当前阶段\DrawingBoard\DrawingBoard\obj\x86\Debug\DrawingBoard.Properties.Resources.resources
+G:\程序\绘图软件\人机交互课设\绘图软件\当前阶段\DrawingBoard\DrawingBoard\obj\x86\Debug\DrawingBoard.ResourceImp.resources
+G:\程序\绘图软件\人机交互课设\绘图软件\当前阶段\DrawingBoard\DrawingBoard\obj\x86\Debug\DrawingBoard.csproj.GenerateResource.Cache
+D:\workspace\DrawingBoard\DrawingBoard\bin\Debug\DrawingBoard.exe
+D:\workspace\DrawingBoard\DrawingBoard\bin\Debug\DrawingBoard.pdb
+D:\workspace\DrawingBoard\DrawingBoard\obj\x86\Debug\DrawingBoard.csprojAssemblyReference.cache
+D:\workspace\DrawingBoard\DrawingBoard\obj\x86\Debug\DrawingBoard.MainForm.resources
+D:\workspace\DrawingBoard\DrawingBoard\obj\x86\Debug\DrawingBoard.Properties.Resources.resources
+D:\workspace\DrawingBoard\DrawingBoard\obj\x86\Debug\DrawingBoard.ResourceImp.resources
+D:\workspace\DrawingBoard\DrawingBoard\obj\x86\Debug\DrawingBoard.csproj.GenerateResource.cache
+D:\workspace\DrawingBoard\DrawingBoard\obj\x86\Debug\DrawingBoard.csproj.CoreCompileInputs.cache
+D:\workspace\DrawingBoard\DrawingBoard\obj\x86\Debug\DrawingBoard.exe
+D:\workspace\DrawingBoard\DrawingBoard\obj\x86\Debug\DrawingBoard.pdb
